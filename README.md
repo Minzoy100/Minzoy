@@ -47,12 +47,12 @@
 ###### Où je suis intermédiaire
 <a href="https://www.python.org/" target="_blank"><img src="ressources/python.png" alt="Python" title="Python" width=32px></a>
  &nbsp;
-
-###### Où je débute
-<a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language" target="_blank"><img src="ressources/HTML.png" alt="HTML5" title="HTML" width=32px></a>
+ <a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language" target="_blank"><img src="ressources/HTML.png" alt="HTML5" title="HTML" width=32px></a>
  &nbsp;
 <a href="https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade" target="_blank"><img src="ressources/css.png" alt="CSS" title="CSS" width=32px></a>
  &nbsp;
+
+###### Où je débute
  <a href="https://fr.wikipedia.org/wiki/JavaScript" target="_blank"><img src="ressources/JavaScript.png" alt="JavaScript" title="JavaScript" width=32px></a>
  &nbsp; 
 <a href="https://www.lua.org/" target="_blank"><img src="ressources/lua_logo.png" alt="LUA" title="LUA" width=32px></a>
