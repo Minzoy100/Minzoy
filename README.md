@@ -10,7 +10,6 @@
 
 - **Analyste confirmé** chez [Protect](https://www.protect-bot.fr/).
 - **Administrateur**,**Responsable Partenariat** chez [Sky](https://skybot.fr/).
-- **Co-Directeur** chez [Fenix's World](https://discord.gg/fenix).
 - **Ancien Modérateur+** chez [Rinaorc](https://rinaorc.com/).
 
 ## Mes compétences
