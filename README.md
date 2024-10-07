@@ -10,7 +10,6 @@
 
 - **Analyste confirmé** chez [Protect](https://www.protect-bot.fr/).
 - **Administrateur** & **Responsable Partenariat** chez [Sky](https://skybot.fr/).
-- **Ancien Modérateur+** chez [Rinaorc](https://rinaorc.com/).
 
 ## Mes compétences
 
