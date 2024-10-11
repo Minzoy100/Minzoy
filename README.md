@@ -54,6 +54,8 @@
  <a href="https://fr.wikipedia.org/wiki/JavaScript" target="_blank"><img src="ressources/JavaScript.png" alt="JavaScript" title="JavaScript" width=32px></a>
  &nbsp; 
 <a href="https://www.lua.org/" target="_blank"><img src="ressources/lua_logo.png" alt="LUA" title="LUA" width=32px></a>
+ &nbsp; 
+<a href="https://www.ruby-lang.org/fr/" target="_blank"><img src="ressources/ruby.png" alt="Ruby" title="Ruby" width=32px></a>
 
 ****
 
