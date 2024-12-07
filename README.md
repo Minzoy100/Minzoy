@@ -7,9 +7,10 @@
 ****
 
 ## À propos de moi
-
+Étudiant en : **Cybersécurité**, **Informatique**, **Développement** & **Électronique**.
 - **Analyste confirmé** chez [Protect](https://www.protect-bot.fr/).
 - **Administrateur** & **Responsable Partenariat** chez [Sky](https://skybot.fr/).
+- **Administrateur** chez [Celestoria](https://discord.gg/H2eP8RE38x).
 
 ## Mes compétences
 
