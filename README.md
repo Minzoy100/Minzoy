@@ -1,4 +1,4 @@
-# Ma présentation
+# Ma présentation <a href="plus/english.md">(<img src="ressources\en_flag.png"> version)</a>
 - Prénom : █████
 - Nom : ███████
 - âge : ██
